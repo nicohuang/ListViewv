@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">热橙邦</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--上拉刷新-->
+    <string name="pullup_footer_hint_normal">查看更多</string>
+    <string name="pullup_footer_hint_ready">松开载入更多</string>
+    <string name="pullup_show_all">已显示全部信息</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_load_data">正在加载数据</string>
+    <string name="network_bug">网络加载失败，</string>
+    <string name="please_reload">点击重新加载！</string>
+
+</resources>

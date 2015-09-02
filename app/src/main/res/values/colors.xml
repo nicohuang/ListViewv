@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_color">#eeeeee</color>
+
+    <color name="event_content">#595959</color>
+    <color name="myproject_tips">#808080</color>
+    <color name="uniuty_dialog_button">#6d98fa</color>
+    <color name="button_click">#9dbef9</color>
+    <color name="hint_color">#bfbfbf</color>
+    <color name="find_password">#4d4d4d</color>
+    <color name="find_title">#737373</color>
+    <color name="login_app_title">#757575</color>
+    <color name="login_slogan">#666666</color>、
+    <color name="login_user">#b3b3b3</color>
+    <color name="login_register_text">#67a1f9</color>
+    <color name="login_forget_password">#999999</color>
+    <color name="refresh_text">#67a1f9</color>
+    <color name="bg_title">#5c92ef</color>
+    <color name="register_title">#737373</color>
+    <color name="register_hint">#bfbfbf</color>
+    <color name="register_sent">#d9d9d9</color>
+    <color name="login_hint">#b2b2b2</color>
+
+    <color name="backgroud_color">#f0f4f5</color>
+    <color name="comment_blue">#72a5f1</color>
+    <color name="comment_date">#8c8c8c</color>
+    <color name="list_selector">#E0E0E0</color>
+
+    <color name="event_content_hint">#b2b2b2</color>
+    <color name="events">#4d4d4d</color>
+    <color name="project_memberlist_text_color">#949494</color>
+    <color name="details_radiotext">#4c4c4c</color>
+    <color name="save">#ffffff</color>
+
+    <color name="menu_blue">#64a9ed</color>
+
+    <color name="project_list_summary">#adadad</color>
+    <color name="project_list_title">#fe5136</color>
+    <color name="filtrate_back">#bbbbbb</color>
+
+    <color name="project_main_title">#ff5a00</color>
+    <color name="project_create">#ffffff</color>
+    <color name="picture">#60000000</color>
+    <color name="backgrou_color">#f0f4f5</color>
+
+    <color name="comment_topic">#c4c4c4</color>
+
+
+</resources>
